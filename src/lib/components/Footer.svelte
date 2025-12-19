@@ -35,10 +35,10 @@
       <div>
         <h4 class="uppercase tracking-widest mb-4 text-[10px] font-semibold text-gray-400">Perspectives</h4>
         <ul class="space-y-2">
-          <li><a href="#" class="hover:text-black transition-colors">The Inner Fire</a></li>
-          <li><a href="#" class="hover:text-black transition-colors">Patient Capital</a></li>
-          <li><a href="#" class="hover:text-black transition-colors">Austrian Economics</a></li>
-          <li><a href="#" class="hover:text-black transition-colors">Founder Empowerment</a></li>
+          <li><a href="#" class="hover:text-black transition-colors">Scaling Playbook</a></li>
+          <li><a href="#" class="hover:text-black transition-colors">Founder Stories</a></li>
+          <li><a href="#" class="hover:text-black transition-colors">Market Insights</a></li>
+          <li><a href="#" class="hover:text-black transition-colors">Operator's Guide</a></li>
         </ul>
       </div>
       <div>

@@ -30,8 +30,8 @@
 <section class="pt-32 pb-16 md:pt-48 md:pb-24 overflow-hidden">
   <div class="container mx-auto px-6 md:px-12 mb-16">
     <h1 class="font-display text-5xl md:text-7xl leading-[1.1] text-gray-900 max-w-4xl">
-      Building <span class="italic font-normal">enduring enterprises</span><br />
-      with patient capital.
+      Backing <span class="italic font-normal">bold founders</span><br />
+      building the future.
     </h1>
   </div>
 

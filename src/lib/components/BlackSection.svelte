@@ -4,7 +4,7 @@
       <!-- Text -->
       <div>
         <h2 class="font-display text-4xl md:text-6xl mb-8 leading-tight">
-          Insights on building enduring enterprises.
+          Insights on building the future.
         </h2>
         
         <a href="/perspectives" class="text-sm text-gray-400 underline decoration-1 underline-offset-4 hover:text-white transition-colors">

@@ -1,17 +1,17 @@
 <script>
   const articles = [
     {
-      title: "The Inner Fire: Why Founder Vision Outlasts Financial Engineering",
+      title: "Why Founder-Led Companies Outperform: Data from 500+ Investments",
       author: "Silima Group",
       image: "/generated/image-founder-working-late-in-office-with-city-1766108523708-0.webp"
     },
     {
-      title: "Austrian Economics and Patient Capital: A Framework for Enduring Value",
+      title: "The Operator's Playbook: Scaling from $10M to $100M ARR",
       author: "Silima Group",
       image: "/generated/image-business-meeting-with-charts-and-documen-1766108526469-1.webp"
     },
     {
-      title: "Operators First: Why Founder-to-Founder Partnership Matters",
+      title: "Building Category-Defining Companies: Lessons from Our Portfolio",
       author: "Silima Group",
       image: "/generated/image-mature-business-leader-mentoring-younger-1766108528977-2.webp"
     }

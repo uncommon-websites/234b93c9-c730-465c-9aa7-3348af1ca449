@@ -8,7 +8,7 @@
         </h2>
         
         <p class="text-lg text-gray-800 font-light mb-8 max-w-md">
-          We've built and scaled companies before becoming investors. That experience shapes every partnership.
+          We've built and scaled companies from zero to category leaders. That experience helps you move faster and avoid costly mistakes.
         </p>
         
         <a href="/team" class="text-sm text-gray-800 underline decoration-1 underline-offset-4 hover:text-black transition-colors">

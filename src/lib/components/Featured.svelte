@@ -13,13 +13,13 @@
       <!-- Text Content -->
       <div class="md:col-span-5 mb-8 md:mb-0">
         <h2 class="font-display text-4xl md:text-6xl text-gray-900 mb-8 leading-tight">
-          Patient capital for<br />
-          impatient times.
+          Capital that moves<br />
+          at founder speed.
         </h2>
         
         <div class="max-w-md">
           <p class="text-lg text-gray-600 font-light mb-6">
-            Why permanent ownership structures unlock true founder potential and build legendary, lasting value.
+            How the right partnership and capital structure accelerates growth and helps founders build legendary companies.
           </p>
           <a href="/article" class="text-sm text-gray-500 underline decoration-1 underline-offset-4 hover:text-black transition-colors">
             Read more

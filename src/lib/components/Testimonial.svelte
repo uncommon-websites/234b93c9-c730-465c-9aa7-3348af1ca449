@@ -13,7 +13,7 @@
       <!-- Quote -->
       <div class="md:pl-12">
         <blockquote class="font-display text-3xl md:text-5xl leading-tight text-gray-900 mb-8">
-          “Silima understood that building something legendary takes decades, not quarters. Their patient capital freed us to focus on what matters.”
+          “Silima gave us the capital and operational playbook to scale 10x faster. They've been in the founder seat and know what it takes to win.”
         </blockquote>
         
         <div class="mb-8">
