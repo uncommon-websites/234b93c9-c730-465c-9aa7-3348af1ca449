@@ -13,13 +13,13 @@
       <!-- Text Content -->
       <div class="md:col-span-5 mb-8 md:mb-0">
         <h2 class="font-display text-4xl md:text-6xl text-gray-900 mb-8 leading-tight">
-          Ideas don't build businesses.<br />
-          People do.
+          Patient capital for<br />
+          impatient times.
         </h2>
         
         <div class="max-w-md">
           <p class="text-lg text-gray-600 font-light mb-6">
-            Wealth Management for a New Generation: Wealthfront Goes Public
+            Why permanent ownership structures unlock true founder potential and build legendary, lasting value.
           </p>
           <a href="/article" class="text-sm text-gray-500 underline decoration-1 underline-offset-4 hover:text-black transition-colors">
             Read more
@@ -30,15 +30,14 @@
       <!-- Image Slider -->
       <div class="md:col-span-7">
         <div class="relative">
-          <div class="aspect-[4/3] bg-blue-900 overflow-hidden">
-             <!-- Using a specific image that looks like a corporate event/IPO -->
+          <div class="aspect-[4/3] bg-gray-900 overflow-hidden">
              <img 
-               src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?q=80&w=1200&auto=format&fit=crop" 
-               alt="Wealthfront NASDAQ debut"
+               src="/generated/image-business-handshake-between-two-founders--1766108422083-0.webp" 
+               alt="Partnership between Silima Group and founders"
                class="w-full h-full object-cover"
              />
              <div class="absolute bottom-4 right-4 text-xs text-white/80 font-light">
-               Wealthfront's NASDAQ debut
+               Building enduring partnerships
              </div>
           </div>
           

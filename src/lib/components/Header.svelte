@@ -15,28 +15,27 @@
 <header class="fixed top-0 left-0 w-full z-50 transition-all duration-300 {isScrolled ? 'bg-white/90 backdrop-blur-sm py-4 shadow-sm' : 'bg-transparent py-8'}">
   <div class="container mx-auto px-6 md:px-12 flex justify-between items-center">
     <!-- Logo -->
-    <a href="/" class="text-[#E33E38] hover:opacity-80 transition-opacity">
-      <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <rect x="4" y="6" width="20" height="3" fill="currentColor"/>
-        <rect x="4" y="13" width="14" height="3" fill="currentColor"/>
-        <rect x="4" y="20" width="20" height="3" fill="currentColor"/>
+    <a href="/" class="flex items-center space-x-3 hover:opacity-80 transition-opacity">
+      <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="text-primary-700">
+        <path
+          d="M12 2L13.2 9.92154L20.6603 7L14.4 12L20.6603 17L13.2 14.0785L12 22L10.8 14.0785L3.33975 17L9.6 12L3.33975 7L10.8 9.92154L12 2Z"
+          fill="currentColor"
+        />
       </svg>
+      <span class="font-display text-xl text-gray-900">Silima Group</span>
     </a>
 
     <!-- Navigation -->
     <nav class="hidden md:flex items-center space-x-8">
-      {#each ['Team', 'Philosophy', 'Companies', 'Perspectives', 'Resources'] as item}
+      {#each ['Philosophy', 'Portfolio', 'Team', 'Perspectives'] as item}
         <a href="#{item.toLowerCase()}" class="text-gray-600 hover:text-black text-sm font-medium transition-colors">
           {item}
         </a>
       {/each}
       
-      <button class="text-gray-600 hover:text-black transition-colors ml-4" aria-label="Search">
-        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="11" cy="11" r="8"></circle>
-          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-        </svg>
-      </button>
+      <a href="#contact" class="ml-4 px-6 py-2 bg-gray-900 text-white text-sm font-medium rounded-full hover:bg-gray-800 transition-colors">
+        Contact
+      </a>
     </nav>
   </div>
 </header>
